@@ -1,4 +1,4 @@
-# (Nombre del proyecto)  
+# Quién fuera caracol  
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
 
@@ -11,9 +11,9 @@ Univesidad de Granada
 
 
 ![img](5seconds.png)
-**Titulo** : _______
+**Titulo** : Quién fuera caracol
 
-**Autor(es)** ______________
+**Autor(es)** Luis Montoya Sánchez, Jorge Sánchez Serrano y Sara Peinado García
 
 **Resumen** : _________
 
